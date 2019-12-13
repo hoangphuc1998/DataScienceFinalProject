@@ -18,3 +18,5 @@
     + **Dog bark**: 75 files.
     + **Say go**: 74 files.
 - Vấn đề: Có nhiều đoạn âm thanh trống, một record có thể có nhiều đối tượng, xử lý bằng cách bỏ đoạn âm thanh trống và chia nhỏ record thành nhiều đoạn nhỏ.
+# Link data (chưa clean và tiền xử lý):
+https://drive.google.com/file/d/1KaQX2O21fzsSVo-Ud8YjfdIhgW9ft1Z2/view?usp=sharing
